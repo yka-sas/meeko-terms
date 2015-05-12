@@ -95,7 +95,7 @@ Dans le cadre des présentes, le Client bénéficiera d'un accès personnel aux 
 
 Ces Identifiants sont personnels, toute utilisation de ces derniers étant faite sous l'entière responsabilité du Client.
 
-En cas de perte ou d’oubli de son mot de passe, le Client devra solliciter le changement de celui-ci à l’adresse suivante : [https://www.lockr.ch/password/email](https://www.lockr.ch/password/email) en indiquant son adresse email.
+En cas de perte ou d’oubli de son mot de passe, le Client devra solliciter le changement de celui-ci à l’adresse suivante : [https://www.lockr.ch/users/password/remind](https://www.lockr.ch/users/password/remind) en indiquant son adresse email.
 
 Le Client reconnaît par ailleurs qu’afin d’optimiser sa connexion aux Services, YKA ou ses sous-traitants concourant à la fourniture des Services pourront mettre en œuvre des programmes de types cookies.
 
