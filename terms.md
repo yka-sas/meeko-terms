@@ -221,7 +221,7 @@ YKA ne saurait être tenue responsable de toute annulation ou refus d’une Comm
 
 ## 8. PRECISIONS LIEES AUX SERVICES
 
-Les Services sont destinés notamment à bénéficier pour le Client d’un accès à la Plateforme, d’un cryptage des Fichiers, d’un suivi de la gestion des Fichiers par le Client et sont plus amplement décrits à la rubrique du Site [https://www.lockr.ch/legals/services](https://www.lockr.ch/legals/services).
+Les Services sont destinés notamment à bénéficier pour le Client d’un accès à la Plateforme, d’un cryptage des Données, d’un suivi de la gestion des Fichiers par le Client et sont plus amplement décrits à la rubrique du Site [https://www.lockr.ch/legals/services](https://www.lockr.ch/legals/services).
 
 Le Client est seul responsable des Fichiers hébergés et diffusés par lui. YKA ne saurait en aucune manière être responsable de la légalité des contenus hébergés et diffusés par le Client.
 
@@ -235,10 +235,7 @@ Les termes « données à caractère personnel », « traiter/traitement », « 
 
 YKA a constitué un fichier électronique qui recense des Données. Lors d'une Commande passée sur le Site par tout nouveau Client, cette base de données sera enrichie au moyen d'informations le concernant, qui permettront, par la suite, de mieux répondre à ses attentes.
 
-Les traitements effectués ont fait l’objet d’une déclaration sous le numéro […] Les Données collectées lors de la passation de toute Commande sont conservées de manière confidentielle et sont utilisées pour les besoins de traitement des Commandes, pour tout envoi d’offres promotionnelles, ou d’information si le Client a accepté cette possibilité.
-
-Conformément à l’article 6 de la loi n° 2004-575 du 21 juin 2004, la société YKA conserve les données de connexion du Client relatives à la mise en ligne des contenus sur la Plateforme et ce, dans les limites des données listées par le décret n° 2011-219 du 25 février 2011 et déclare avoir fait toute déclaration nécessaire à cet effet.
-Le Client a la qualité de « Responsable du Traitement » au sens de la loi 78-17 du 6 janvier 1978 modifiée et déclare avoir fait toute déclaration nécessaire à cet effet en vue des Services souscrits, YKA garantissant, en sa qualité de sous traitant que les Services seront réalisés conformément à ladite loi.
+Les traitements effectués ont fait l’objet d’une déclaration sous le numéro 1858357. Les Données collectées lors de la passation de toute Commande sont conservées de manière confidentielle et sont utilisées pour les besoins de traitement des Commandes, pour tout envoi d’offres promotionnelles, ou d’information si le Client a accepté cette possibilité.
 
 Conformément à la Règlementation, tout Client peut obtenir communication et le cas échéant rectification ou suppression des informations le concernant en s’adressant à YKA:
 
