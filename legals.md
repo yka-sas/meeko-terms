@@ -17,7 +17,7 @@
 
 Les données à caractère personnel collectées lots de toute Commande sont conservées de manière confidentielles et sont utilisées uniquement pour les besoins de traitement des Commandes et pour tout envoi d’offres promotionnelles.
 
-Les présents traitements de données à caractère personnel ont fait l’objet d’une déclaration sous le numéro […]
+Les présents traitements de données à caractère personnel ont fait l’objet d’une déclaration sous le numéro 1858357
 
 Conformément à la loi du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, tout Client peut obtenir communication et le cas échéant rectification ou suppression des informations le concernant en s’adressant à [YKA](http://www.yka.ch) :
 
