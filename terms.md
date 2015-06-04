@@ -5,7 +5,7 @@
 **Il est préalablement rappelé ce qui suit :**
 La société YKA est spécialisée dans l’accompagnement numérique et digital de ses clients.
 
-La société YKA a développé un système d’échanges en ligne de fichiers très volumineux de manière sécurisée ainsi que différents services associés.
+La société YKA a développé un système d’échanges en ligne de fichiers et de messages de manière sécurisée ainsi que différents services associés.
 
 Le Client souhaite bénéficier des services offerts par la société YKA.
 
@@ -67,8 +67,6 @@ YKA s'engage à apporter tout le soin et la diligence nécessaires à la fournit
 
 YKA assure la gestion et la maintenance matérielle et logicielle de la Plateforme. YKA met tout en œuvre pour maintenir en état de fonctionnement cette Plateforme et son raccordement physique aux réseaux de communications électroniques.
 
-Sauf accord exprès écrit du Client, YKA n'accèdera en aucun cas aux données du Client, notamment aux Fichiers téléchargés et hébergés au titre des Services souscrits.
-
 ### 6.2. Création d'un compte
 
 La création d’un Compte s’effectue à la rubrique Sign up accessible à l’adresse [https://www.lockr.ch/register](https://www.lockr.ch/register).
@@ -127,7 +125,7 @@ Ces dernières sont accessibles en différentes langues étant précisé que seu
 
 ### 6.9. Version d'essai
 
-Une version d’essai des Services est disponible pour la durée mentionnée sur le Site et nécessite pas l’établissement de Commande mais uniquement la création d’un Compte. Dans une telle hypothèse et de convention expresse, le Client reconnaît, compte tenu du caractère gratuit des Services dans le cadre d’une version d’essai, qu’il ne pourra en aucun cas engager la responsabilité d’YKA pour quelque raison que ce doit dans le cadre de l’utilisation des Services ou de ses conséquences.
+Une version d’essai des Services peut être disponible pour la durée mentionnée sur le Site et nécessite pas l’établissement de Commande mais uniquement la création d’un Compte. Dans une telle hypothèse et de convention expresse, le Client reconnaît, compte tenu du caractère gratuit des Services dans le cadre d’une version d’essai, qu’il ne pourra en aucun cas engager la responsabilité d’YKA pour quelque raison que ce doit dans le cadre de l’utilisation des Services ou de ses conséquences.
 
 A la fin de la période d’essai, tout Fichier sera automatiquement détruit.
 
