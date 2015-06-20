@@ -310,7 +310,7 @@ Cette somme constitue l’équilibre économique recherché entre les Parties co
 
 ### 12.1. Durée et Terme
 
-Les Services sont conclus pour une durée initiale d’un (1) mois renouvelable par tacite reconduction pour la même durée. Au terme de chacune des périodes, le Client pourra choisir de ne pas renouveler les Services par une simple notification à l’adresse : [https://www.lockr.ch/unsubscribe](https://www.lockr.ch/unsubscribe) sous réserve du respect d’un préavis de cinq (5) jours calendaires avant la fin de la période visée.
+Les Services sont conclus pour une durée initiale d’un (1) mois renouvelable par tacite reconduction pour la même durée. Au terme de chacune des périodes, le Client pourra choisir de ne pas renouveler les Services par une simple notification à l’adresse : [https://www.lockr.ch/account/billing](https://www.lockr.ch/account/billing) sous réserve du respect d’un préavis de cinq (5) jours calendaires avant la fin de la période visée.
 
 ### 12.2. Résiliation pour faute
 
