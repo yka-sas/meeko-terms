@@ -172,10 +172,6 @@ Dans l'hypothèse où, pour quelque raison que ce soit (opposition, refus du cen
 
 #### 7.4.2 Prix et conditions de règlement
 
-Le prix des Services souscrits sont les suivants:
-
-1. FR 97.- par Utilisateur et par mois
-
 Les tarifs qui s'appliquent sont ceux en vigueur à la date de la Commande par le Client. Ils sont exprimés en Francs suisses et Hors Taxes.
 
 YKA se réserve le droit de modifier le prix des Services dont l’entrée en vigueur sera effective lors du renouvellement.
