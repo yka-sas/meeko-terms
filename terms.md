@@ -1,6 +1,6 @@
-# CONDITIONS CONTRACTUELLES D’UTILISATION EN LIGNE DES SERVICES YKA
+# Conditions contractuelles d’utilisation en ligne des services YKA
 
-## 1. PREAMBULE
+## 1. Preambule
 
 **Il est préalablement rappelé ce qui suit :**
 La société YKA est spécialisée dans l’accompagnement numérique et digital de ses clients.
@@ -11,7 +11,7 @@ Le Client souhaite bénéficier des services offerts par la société YKA.
 
 **En foi de quoi il a été convenu ce qui suit.**
 
-## 2. DEFINITIONS
+## 2. Définitions
 
 Pour l'exécution et l'interprétation du présent Contrat, les mots suivants, dont la première lettre est en majuscule, qu’ils soient au singulier ou au pluriel, dans le Contrat, ont la signification qui leur est donnée ci-après :
 
@@ -41,11 +41,11 @@ Pour l'exécution et l'interprétation du présent Contrat, les mots suivants, d
 
 **YKA :** désigne la société par actions simplifiées au capital de 10 000 euros, immatriculée au registre du Commerce et des Sociétés de Bourg en Bresse sous le numéro 798 543 104 Siège social : 445 Route Blanche, 01170 SEGNY**
 
-## 3. OBJET DU CONTRAT
+## 3. Objet du contrat
 
 Le Contrat a pour objet de déterminer les conditions dans lesquelles YKA fournit les Services à ses Clients.
 
-## 4. DOCUMENTS CONTRACTUELS
+## 4. Documents contractuels
 
 Les documents régissant le présent Contrat sont les suivants par ordre de priorité décroissante :
 
@@ -55,11 +55,11 @@ Les documents régissant le présent Contrat sont les suivants par ordre de prio
 
 En cas de contradiction entre les documents ci-dessus, les documents de rang supérieur prévaudront.
 
-## 5. DATE D'EFFET ET DUREE DU CONTRAT
+## 5. Date d'effet et durée du contrat
 
 Les présentes entrent en vigueur dès la validation de la création d’un Compte et régissent tout Service souscrit aussi longtemps qu’un Compte existe sous réserve de toute évolution du Contrat conformément aux stipulations de l’article 13.4.
 
-## 6. FOURNITURE DES SERVICES
+## 6. Fourniture des services
 
 ### 6.1. Principes
 
@@ -129,7 +129,7 @@ Une version d’essai des Services peut être disponible pour la durée mentionn
 
 A la fin de la période d’essai, tout Fichier sera automatiquement détruit.
 
-## 7. GESTION DES COMMANDES
+## 7. Gestion des commandes
 
 ### 7.1 Dispositions générales
 
@@ -213,7 +213,7 @@ Une déclaration irrégulière ou une anomalie pourra également faire l'objet d
 
 YKA ne saurait être tenue responsable de toute annulation ou refus d’une Commande dans l’hypothèse où il apparaitrait que les coordonnées bancaires renseignées lors de la Commande ne permettent pas de faire droit au paiement de celle-ci.
 
-## 8. PRECISIONS LIEES AUX SERVICES
+## 8. Precisions liées aux services
 
 Les Services sont destinés notamment à bénéficier pour le Client d’un accès à la Plateforme, d’un cryptage des Données, d’un suivi de la gestion des Fichiers par le Client et sont plus amplement décrits à la rubrique du Site [https://www.lockr.ch/legals/services](https://www.lockr.ch/legals/services).
 
@@ -223,7 +223,7 @@ YKA ne saurait être tenu responsable de tout dommage, matériel ou immatériel 
 
 Le Client reconnaît que la responsabilité d’YKA ne saurait être engagée au titre de la suspension d’un Service ayant pour origine des Données ou Fichiers mis en ligne par le Client et contenant des virus ou programmes malveillants.
 
-## 9. DONNEES A CARACTERE PERSONNEL
+## 9. Données a caractère personnel
 
 Les termes « données à caractère personnel », « traiter/traitement », « responsable du traitement », « sous-traitant » ont la même signification que celle qui leur est donnée par la loi n°78-17 du 6 janvier 1978 ci-après dénommée « la Réglementation ».
 
@@ -286,7 +286,7 @@ A cet effet, le Client garantit YKA contre tout risque d'éviction et toute cons
 Si YKA venait à être inquiétée de ce chef, elle en avisera le Client qui devra prendre immédiatement les mesures propres à faire cesser tout trouble et prendra seule à ses frais toute mesure de défense nécessaire et indemnisera YKA de tous dommages, intérêts et frais de dépens auxquels elle serait condamnée à ce chef par une décision de justice.
 YKA pourra résilier le Contrat, sans avoir à verser des dommages et intérêts ou une indemnité, si une décision de justice lui fait défense de faire bénéficier le Client de ses Services au titre de Fichiers.
 
-## 11. RESPONSABILITE
+## 11. Résponsabilité
 
 ### 11.1. Principes
 
@@ -302,7 +302,7 @@ Dans l’hypothèse où la responsabilité d’YKA serait engagée, l’indemnis
 
 Cette somme constitue l’équilibre économique recherché entre les Parties compte tenu de la nature et la valeur des Services fournis par YKA.
 
-## 12. RESILIATION
+## 12. Résiliation
 
 ### 12.1. Durée et Terme
 
@@ -337,7 +337,7 @@ A défaut, la résiliation du Compte et/ou du Contrat entraine automatiquement l
 
 En cas de résiliation du Contrat, les Parties conviennent qu'elles satisferont toutes leurs obligations nées avant ou à la date de la résiliation, notamment le paiement par le Client des sommes dues à YKA à la date effective de résiliation du Contrat.
 
-## 13. DIVERS
+## 13. Divers
 
 ### 13.1 Convention de preuve
 
