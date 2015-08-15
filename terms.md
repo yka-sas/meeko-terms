@@ -1,6 +1,6 @@
 # Conditions contractuelles d’utilisation en ligne des services YKA
 
-## 1. Preambule
+## 1. Préambule
 
 **Il est préalablement rappelé ce qui suit :**
 La société YKA est spécialisée dans l’accompagnement numérique et digital de ses clients.
