@@ -242,7 +242,7 @@ Les traitements effectués ont fait l’objet d’une déclaration sous le numé
 
 Conformément à la Règlementation, tout Client peut obtenir communication et le cas échéant rectification ou suppression des informations le concernant en s’adressant à YKA:
 
-1. Par mail : [support@lockr.ch](mailto:support@lockr.ch)
+1. Par mail : [help@lockr.ch](mailto:help@lockr.ch)
 2. Par Courrier à l’adresse suivante : 445 route blanche, 01170 Segny, FRANCE
 
 ### 9.1. Cookies
