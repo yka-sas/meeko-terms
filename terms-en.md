@@ -236,7 +236,7 @@ The processing has been the subject of a declaration under number  1858357. The 
 
 In accordance with the Regulation, any Client may be sent the information concerning it, and rectify or delete it if necessary, by contacting YKA:
 
-1. By email: [support@lockr.ch](mailto:support@lockr.ch)
+1. By email: [help@lockr.ch](mailto:help@lockr.ch)
 2. By letter, to the following address: 445 route blanche, 01170 Segny, FRANCE
 
 ### 9.1. Cookies
