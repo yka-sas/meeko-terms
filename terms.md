@@ -19,7 +19,7 @@ Pour l'exécution et l'interprétation du présent Contrat, les mots suivants, d
 
 **Commande :** désigne l’opération par laquelle le Client souscrit des Services sur le Site.
 
-**Compte :** désigne la création d’un espace personnel au Client et accessible par ses Identifiants lui permettant de conclure des Commandes et d’accéder au Portail une fois son inscription validée.
+**Compte :** désigne la création d’un espace personnel au Client et accessible par ses Identifiants lui permettant de conclure des Commandes et d’accéder au Portail une fois son inscription validée. Le nombre d’utilisateurs que souscrit le client est défini lors de la Commande.
 
 **Contrat :** désigne les présentes conditions générales d’utilisation du Site, les annexes et la Commande.
 
@@ -77,9 +77,16 @@ Aux fins de son inscription, le Client s’engage à fournir des informations ex
 
 Une fois l’inscription terminée et les informations saisies vérifiées et validées par le Client, ce dernier recevra dans les plus brefs délais une confirmation d’inscription à l’adresse électronique qu’il aura préalablement saisie lors de son inscription.
 
-Suivant l’option souscrite, le Client pourra bénéficier d’un Compte permettant à plusieurs autres utilisateurs de bénéficier des Services sans que ces derniers n’aient besoin de s’identifier personnellement ou de créer chacun leur propre Compte.
+### 6.3. Nombre d'utilisateurs
 
-### 6.3. Statut du Compte
+Suivant l’option souscrite, le Client pourra bénéficier d’un Compte permettant à plusieurs autres utilisateurs bénéficiaires  d’accéder et de bénéficier des Services souscrits.
+
+Le Client est libre de souscrire le nombre d’utilisateurs qu’il souhaite que ces derniers soient ou non ses salariés. 
+En tout état de cause, le Client est responsable de tout manquement des utilisateurs à qui un accès aux Services a été fourni, que ces utilisateurs soient ou non ses salariés et s’assure de ce que les utilisateurs ont eu connaissances des termes des présentes. 
+
+Sous réserve que le nombre d’utilisateurs souscrits n’augmente pas, le Client est libre de réattribuer des accès aux Services à d’autres utilisateurs, sous sa propre responsabilité. 
+
+### 6.4. Statut du Compte
 
 Le Client reconnait que le paiement des Services conditionnera son accès aux Services et à son Compte :
 
@@ -87,7 +94,7 @@ Le Client reconnait que le paiement des Services conditionnera son accès aux Se
 2. Le Compte est dit « suspendu » lorsque le Client a créé son Compte mais ne s’est pas acquitté du paiement de sa Commande. Le Client ne pourra pas bénéficier des Services et disposera seulement de la possibilité de s’acquitter des sommes dues. En cas de non paiement au cours de l’exécution des Services dans un délai de cinq (5) jours à compter de l’émission de la facture, les Services sont automatiquement suspendus.
 3. Le Compte est dit « supprimé » lorsque le Client supprime son Compte : les Fichiers seront automatiquement supprimés et l’accessibilité aux Services supprimée.
 
-### 6.4. Connexions
+### 6.5. Connexions
 
 Dans le cadre des présentes, le Client bénéficiera d'un accès personnel aux Services accessibles via son Compte sur le Portail moyennant la saisie de ses Identifiants.
 
@@ -99,11 +106,11 @@ Le Client reconnaît par ailleurs qu’afin d’optimiser sa connexion aux Servi
 
 Le Client reconnait qu’il aura à sa charge les frais de communications électroniques lors de l'accès à internet et de l'utilisation du Site et des Services.
 
-### 6.5. Evolution des Services
+### 6.6. Evolution des Services
 
 YKA se réserve le droit de faire évoluer les Services proposés sur son Site.
 
-### 6.6. Niveaux de services
+### 6.7. Niveaux de services
 
 YKA s’engage à assurer conformément aux règles de l’état de l’art la disponibilité de la Plateforme 7jours/7 et 24heures/24 sous réserve de toute opération de maintenance ou de tout facteur échappant raisonnablement à son contrôle et s’efforcera à cet effet de les planifier.
 
@@ -111,11 +118,13 @@ YKA ne garantit pas l’utilisation des Services sur tous les équipements infor
 
 Cette liste sera mise à jour, le cas échéant, suivant les informations données à la rubrique "Service".
 
-### 6.7. Territoire
+Le Client reconnait que les présents Services sont souscrits dans le cadre d’une activité professionnelle. Dès lors, et en cas de constatation d’une utilisation qui apparaitrait anormale ou excessive eu égard au volume des Fichiers échangés, YKA pourra se rapprocher du Client à cet effet.
+
+### 6.8. Territoire
 
 L’accessibilité du Site et la possibilité de souscrire aux Services visent tous les territoires à l’exclusion des territoires suivants: États-Unis où le Site est considéré comme non accessible.
 
-### 6.8. Disponibilités des présentes
+### 6.9. Disponibilités des présentes
 
 Les présentes conditions sont en permanence accessibles à l’adresse [https://www.lockr.ch/legals/terms](https://www.lockr.ch/legals/terms)
 
@@ -123,7 +132,7 @@ Leur acceptation est nécessaire aux fins de confirmer la création d’un Compt
 
 Ces dernières sont accessibles en différentes langues étant précisé que seule la version française fera foi et sera opposable entre les Parties en cas de contentieux.
 
-### 6.9. Version d'essai
+### 6.10. Version d'essai
 
 Une version d’essai des Services peut être disponible pour la durée mentionnée sur le Site et nécessite pas l’établissement de Commande mais uniquement la création d’un Compte. Dans une telle hypothèse et de convention expresse, le Client reconnaît, compte tenu du caractère gratuit des Services dans le cadre d’une version d’essai, qu’il ne pourra en aucun cas engager la responsabilité d’YKA pour quelque raison que ce doit dans le cadre de l’utilisation des Services ou de ses conséquences.
 
@@ -221,7 +230,7 @@ Le Client est seul responsable des Fichiers hébergés et diffusés par lui. YKA
 
 YKA ne saurait être tenu responsable de tout dommage, matériel ou immatériel causé aux Clients, à leurs équipements informatiques et aux données qui y sont stockées, ou de toutes conséquences directes ou indirectes pouvant en découler, notamment sur leur activité personnelle, professionnelle ou commerciale ainsi que d'un préjudice d'aucune nature (personnelle, physique, matérielle, financière ou autre) survenu à l'occasion de l’utilisation du Site.
 
-Le Client reconnaît que la responsabilité d’YKA ne saurait être engagée au titre de la suspension d’un Service ayant pour origine des Données ou Fichiers mis en ligne par le Client et contenant des virus ou programmes malveillants.
+Le Client reconnaît que la responsabilité d’YKA ne saurait être engagée au titre de la suspension d’un Service ayant pour origine des Données ou Fichiers mis en ligne par le Client et contenant des virus ou programmes malveillants et ou toute injonction judiciaire.
 
 ## 9. Données a caractère personnel
 
@@ -269,11 +278,25 @@ Au delà de cette durée, les Données personnelles seront détruites.
 
 ### 10.1. Site et Plateforme
 
+### 10.1.1 Contenu du Site
+
 Le Client reconnaît que le contenu du Site internet notamment les articles, marques, logos ou images... sont la propriété d’YKA ou font l'objet d'une autorisation d'utilisation au profit d’YKA.
 
 YKA demeure titulaire des droits relatifs à tout élément des Services mis à disposition du Client et plus généralement de la Plateforme permettant la fourniture des Services.
 
 Le Client s’interdit d’utiliser, distribuer, copier, reproduire, modifier, dénaturer ou transmettre tout élément appartenant à YKA, de quelque manière que ce soit et sur quelque support que ce soit.
+
+### 10.1.2 Eléments fournis par le Client
+
+Le Client déclare être titulaire de tous les droits de propriété intellectuelle des éléments de personnalisation de l’interface de son Compte (notamment textes, graphiques, photos, images qu’elles soient fixes ou animées, bandes son, données, base de données, programmes téléchargeables ou non, logos, marques) ou qu’il dispose des autorisations d’utilisation à cette fin.  
+
+Le Client concède à YKA, pour les besoins uniques des présentes, une licence d’utilisation, de reproduction et représentation gratuite de ces éléments sur la Plateforme, pendant la durée du Contrat pour les besoins de la  réalisation de ses Services, qui permettent la personnalisation de l’interface de son Compte.
+
+A cet effet, le Client garantit YKA contre tout risque d'éviction et toute conséquence qui pourraient en découler.
+
+Si YKA venait à être inquiétée de ce chef, elle en avisera le Client qui devra prendre immédiatement les mesures propres à faire cesser tout trouble dans la jouissance et prendra seule à ses frais toute mesure de défense nécessaire et indemnisera YKA de tous dommages, intérêts et frais de dépens auxquels elle serait condamnée à ce chef par une décision de justice.
+
+YKA pourra résilier le Contrat, sans avoir à verser des dommages et intérêts ou une indemnité, si une décision de justice lui fait défense d’utiliser un élément nécessaire à la réalisation de ses Services pour le compte du Client.
 
 ### 10.2. Régime applicable aux Fichiers
 
@@ -394,6 +417,10 @@ Les titres des articles du Contrat sont insérés dans le seul but d’en facili
 ### 13.11 Droit applicable
 
 Le Contrat est régi par la loi française.
+
+Il est de la responsabilité du Client de s’assurer que la souscription et/ou l’utilisation des Services ne contrevient pas à la législation qui le régit ou celle des destinataires envisagés des Fichiers. 
+
+En aucun cas, la responsabilité d’YKA ne pourra être engagée si tel n’était pas le cas. 
 
 Toutes difficultés relatives à l’application ou à l’interprétation du Contrat liant les Parties, seront soumises, à défaut de conciliation, aux tribunaux compétents de BOURG EN BRESSE.
 Cette clause d’élection de compétence, par accord exprès des Parties, s’applique même en cas de pluralité de défendeurs ou d’appel en cause ou en garantie.**
