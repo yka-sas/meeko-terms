@@ -69,7 +69,7 @@ YKA assure la gestion et la maintenance matérielle et logicielle de la Platefor
 
 ### 6.2. Création d'un compte
 
-La création d’un Compte s’effectue à la rubrique Sign up accessible à l’adresse [https://www.lockr.ch/register](https://www.lockr.ch/register).
+La création d’un Compte s’effectue à la rubrique Create an account accessible à l’adresse [https://www.lockr.ch/register](https://www.lockr.ch/register).
 
 A cet effet, le Client est informé que des Données devront être saisies, certaines étant obligatoires d’autres facultatives.
 
@@ -113,7 +113,7 @@ Cette liste sera mise à jour, le cas échéant, suivant les informations donné
 
 ### 6.7. Territoire
 
-L’accessibilité du Site et la possibilité de souscrire aux Services visent exclusivement les territoires suivants : Europe, à l’exclusion de tout autre territoire où le Site est considéré comme non accessible.
+L’accessibilité du Site et la possibilité de souscrire aux Services visent tous les territoires à l’exclusion des territoires suivants: États-Unis où le Site est considéré comme non accessible.
 
 ### 6.8. Disponibilités des présentes
 
