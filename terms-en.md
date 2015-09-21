@@ -298,6 +298,8 @@ To this effect, the Client guarantees YKA against any risk of eviction and all e
 
 If YKA is importuned in this respect, it shall notify the Client, which must immediately take measures to end any interference with use and shall be solely responsible for expenses incurred in any defence required and compensate YKA for any damage, interest and costs that it may have been ordered to pay in this respect by a court ruling.
 
+YKA may terminate the Agreement, without having to pay any compensation or indemnities, if a court ruling prohibits it from using an element that is required for carrying out its Services on behalf of the Client.
+
 ### 10.2. Provisions applying to Files
 
 The Client is and shall remain the owner of all Files that it uses via the Services under the Agreement.
