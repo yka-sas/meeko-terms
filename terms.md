@@ -286,7 +286,7 @@ YKA demeure titulaire des droits relatifs à tout élément des Services mis à 
 
 Le Client s’interdit d’utiliser, distribuer, copier, reproduire, modifier, dénaturer ou transmettre tout élément appartenant à YKA, de quelque manière que ce soit et sur quelque support que ce soit.
 
-### 10.1.2 Eléments fournis par le Client
+#### 10.1.2 Eléments fournis par le Client
 
 Le Client déclare être titulaire de tous les droits de propriété intellectuelle des éléments de personnalisation de l’interface de son Compte (notamment textes, graphiques, photos, images qu’elles soient fixes ou animées, bandes son, données, base de données, programmes téléchargeables ou non, logos, marques) ou qu’il dispose des autorisations d’utilisation à cette fin.  
 
@@ -298,7 +298,7 @@ Si YKA venait à être inquiétée de ce chef, elle en avisera le Client qui dev
 
 YKA pourra résilier le Contrat, sans avoir à verser des dommages et intérêts ou une indemnité, si une décision de justice lui fait défense d’utiliser un élément nécessaire à la réalisation de ses Services pour le compte du Client.
 
-### 10.2. Régime applicable aux Fichiers
+#### 10.2. Régime applicable aux Fichiers
 
 Le Client est et demeure propriétaire de l’ensemble des Fichiers qu’il utilise à travers les Services dans le cadre du Contrat.
 Le Client reconnait que les Fichiers sont hébergés pour une durée maximum de quinze (15) jours et sont automatiquement détruits au delà de cette période.
