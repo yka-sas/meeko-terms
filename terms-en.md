@@ -20,7 +20,7 @@ For the performance and interpretation of this Agreement, the following words wi
 
 **Order:** refers to the operation by which the Client subscribes to the Services on the Site.
 
-**Account:** refers to the creation of a personal area for the Client that can be accessed via its Identifiers enabling it to place Orders and access the Portal once its registration has been confirmed..
+**Account:** refers to the creation of a personal area for the Client that can be accessed via its Identifiers enabling it to place Orders and access the Portal once its registration has been confirmed. The number of users that the client subscribes is specified at the time of the Order.
 
 **Agreement:** refers to these general terms of use of the Site, the annexes and the Order.
 
