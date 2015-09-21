@@ -84,7 +84,6 @@ Depending on the option subscribed to, the Client can use an Account allowing se
 
 The Client is free to subscribe any number of users, whether or not these users are employees of the Client. 
 In all events, the Client is responsible for any breaches by users to whom access to the Services has been provided, whether or not these users are employees of the Client and will ensure that the users have read the terms and conditions in this document. 
-
 On the condition that the number of subscribers does not increase, the Client is free to reassign access to the Services to other users, at the Client's own risk. 
 
 ### 6.4. Account status
@@ -281,7 +280,7 @@ After this period, the personal Data shall be destroyed.
 
 ### 10.1. Site and Plateform
 
-### 10.1.1 Content of the Internet Site
+#### 10.1.1 Content of the Internet Site
 
 The Client acknowledges that the content of the Internet Site, in particular the articles, marks, logos and images, are the property of YKA or the subject of a user license for YKA.
 
@@ -289,7 +288,7 @@ YKA retains the rights relating to all elements of the Services made available f
 
 The Client is prohibited from using, distributing, copying, reproducing, modifying, falsifying or transmitting any element belonging to YKA, in any way and on any media.
 
-### 10.1.2 Elements provided by the Client
+#### 10.1.2 Elements provided by the Client
 
 The Client declares that it owns all the intellectual property rights governing the personalisation element of the Client Account interface (in particular text, graphics, photos, still or animated images, sound bands, databases, downloadable or other programmes, logos, brands) or that it has the appropriate permissions for use. 
 
