@@ -76,9 +76,18 @@ For the purposes of registration, the Client undertakes to provide accurate info
 
 Once registration is completed and the information entered has been checked and confirmed by the Client, the Client shall promptly receive confirmation of registration at the electronic address provided at the time of registration.
 
-Depending on the option subscribed, the Client may benefit from an Account enabling several other users to benefit from the Services, without these other users needing to identify themselves personally or create their own Accounts.  
+Depending on the option subscribed, the Client may benefit from an Account enabling several other users to benefit from the Services, without these other users needing to identify themselves personally or create their own Accounts.
 
-### 6.3. Account status
+### 6.3. Number of users
+
+Depending on the option subscribed to, the Client can use an Account allowing several other user beneficiaries to access and use the Services included in the subscription.
+
+The Client is free to subscribe any number of users, whether or not these users are employees of the Client. 
+In all events, the Client is responsible for any breaches by users to whom access to the Services has been provided, whether or not these users are employees of the Client and will ensure that the users have read the terms and conditions in this document. 
+
+On the condition that the number of subscribers does not increase, the Client is free to reassign access to the Services to other users, at the Client's own risk. 
+
+### 6.4. Account status
 
 The Client acknowledges that payment of the Services shall determine its access to the Services and its Account:
 
@@ -86,7 +95,7 @@ The Client acknowledges that payment of the Services shall determine its access 
 2. The Account is "suspended" when the Client has created its Account, but has not paid for its Order. The Client may not benefit from the Services and shall only have the option of paying the amounts due. In the event of non-payment during performance of the Services within five (5) days as from the invoice date of issue, the Services shall be automatically suspended. 
 3. The Account is "deleted" when the Client deletes its Account: the Files shall be automatically deleted and access to the Services removed. 
 
-### 6.4. Connections
+### 6.5. Connections
 
 Under these Terms of use, the Client shall benefit from personal access to the Services accessible via its Account on the Portal when its Identifiers are entered.
 
@@ -98,11 +107,11 @@ The Client acknowledges that in order to optimise its connection to the Services
 
 The Client acknowledges that it is responsible for the cost of electronic communications when accessing the Internet and using the Site and Services. 
 
-### 6.5. Changes to Services
+### 6.6. Changes to Services
 
 YKA reserves the right to change the Services proposed on its Site.
 
-### 6.6. Level of Service
+### 6.7. Level of Service
 
 In compliance with good practice, YKA undertakes to ensure availability of the Platform 7/7 and 24/24, subject to any maintenance operations and any factors reasonably outside of its control and shall do its utmost to schedule them to this effect.  
 
@@ -110,11 +119,13 @@ YKA does not guarantee use of the Services on all computer hardware and software
 
 This list shall be updated, if necessary, in accordance with the information provided in the section "Service".
 
-### 6.7. Territory
+The Client acknowledges that these Services are subscribed to as part of a business activity. Therefore, and if apparently abnormal or excessive use in terms of the volume of Files exchanged is observed, YKA can contact the Client regarding this matter.
+
+### 6.8. Territory
 
 Site accessibility and the option of subscribing to Services covers all territories, excluding the following territories : USA in which the Site is deemed inaccessible.
 
-### 6.8. Availability of the Terms of use
+### 6.9. Availability of the Terms of use
 
 These Terms of use are permanently accessible at the address [https://www.lockr.ch/legals/terms](https://www.lockr.ch/legals/terms)
 
@@ -122,7 +133,7 @@ Acceptance is required for confirming the creation of an Account and subscribing
 
 The Terms of use are accessible in a number of languages, with it being specified that only the French version applies and is enforceable between the Parties in the event of a dispute. 
 
-### 6.9. Trial version
+### 6.10. Trial version
 
 A trial version of the Services is available for the period specified on the Site and does not require the placing of an Order, but only the creation of an Account.
 
@@ -270,11 +281,23 @@ After this period, the personal Data shall be destroyed.
 
 ### 10.1. Site and Plateform
 
+### 10.1.1 Content of the Internet Site
+
 The Client acknowledges that the content of the Internet Site, in particular the articles, marks, logos and images, are the property of YKA or the subject of a user license for YKA.
 
 YKA retains the rights relating to all elements of the Services made available for the Client and, more generally, the Platform enabling provision of the Services. 
 
 The Client is prohibited from using, distributing, copying, reproducing, modifying, falsifying or transmitting any element belonging to YKA, in any way and on any media.
+
+### 10.1.2 Elements provided by the Client
+
+The Client declares that it owns all the intellectual property rights governing the personalisation element of the Client Account interface (in particular text, graphics, photos, still or animated images, sound bands, databases, downloadable or other programmes, logos, brands) or that it has the appropriate permissions for use. 
+
+For the sole purpose of these terms and conditions, the Client shall grant YKA a license to use, reproduce and represent these elements on the Platform at no cost, for the term of the Contract and for the purposes of carrying out its Services, making it possible to personalise the Account interface.
+
+To this effect, the Client guarantees YKA against any risk of eviction and all ensuing consequences.
+
+If YKA is importuned in this respect, it shall notify the Client, which must immediately take measures to end any interference with use and shall be solely responsible for expenses incurred in any defence required and compensate YKA for any damage, interest and costs that it may have been ordered to pay in this respect by a court ruling.
 
 ### 10.2. Provisions applying to Files
 
@@ -398,5 +421,9 @@ The titles of articles of the Agreement are inserted for the sole purpose of fac
 
 The Agreement is governed by French law.
 
+It is the Client's responsibility to ensure that the subscription to/use of the Services does not contravene the legislation applicable to the Client or to the intended recipients of the files. 
+
+If the Client fails to meet this responsibility, YKA can under no circumstances be held liable. 
+
 Any difficulties relating to the application or interpretation of the Agreement binding the Parties shall be submitted, if no conciliation can be reached, to the competent courts of BOURG EN BRESSE. 
-It is expressly agreed by the Parties that this jurisdiction clause applies even in the event of multiple defendants, the introduction of third parties and third-party claims.**
+It is expressly agreed by the Parties that this jurisdiction clause applies even in the event of multiple defendants, the introduction of third parties and third-party claims.
