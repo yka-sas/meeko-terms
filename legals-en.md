@@ -8,10 +8,8 @@
 
 ## Web hosting
 
-1. **Company:** [Akenes SA](http://www.exoscale.ch)
-2. **Address:** Avenue de Provence 4 1007 - Lausanne Switzerland
-3. **Email address:** [manager@exoscale.ch](mailto:manager@exoscale.ch)
-4. **Telephone number:** +41 58 668 56 00
+1. **Company:** [Heroku](https://www.heroku.com)
+2. **Contact:** https://www.heroku.com/contact
 
 ## Personal data
 
