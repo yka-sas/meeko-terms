@@ -8,10 +8,8 @@
 
 ## Hébergement
 
-1. **Société :** [Akenes SA](http://www.exoscale.ch)
-2. **Adresse :** Avenue de Provence 4 1007 - Lausanne Switzerland
-3. **Adresse électronique :** [manager@exoscale.ch](mailto:manager@exoscale.ch)
-4. **Numéro de téléphone :** +41 58 668 56 00
+1. **Société :** [Heroku](https://www.heroku.com)
+2. **Contact :** https://www.heroku.com/contact
 
 ## Données à caractère personnel
 
