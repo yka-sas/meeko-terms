@@ -5,7 +5,7 @@
 **Il est préalablement rappelé ce qui suit :**
 La société YKA est spécialisée dans l’accompagnement numérique et digital de ses clients.
 
-La société YKA a développé un système d’échanges en ligne de fichiers et de messages de manière sécurisée ainsi que différents services associés.
+La société YKA a développé un système de gestion pour les structures d'accueil de la petite enfance ainsi que différents services associés.
 
 Le Client souhaite bénéficier des services offerts par la société YKA.
 
@@ -35,9 +35,9 @@ Pour l'exécution et l'interprétation du présent Contrat, les mots suivants, d
 
 **Portail :** désigne l’espace dédié du Client accessible via son Compte lui permettant d’utiliser les Services souscrits.
 
-**Services :** désignent les prestations offertes par YKA suite à une Commande et plus amplement décrites à la rubrique [Services](https://www.lockr.ch/legals/services) du Site.
+**Services :** désignent les prestations offertes par YKA suite à une Commande et plus amplement décrites à la rubrique [Services](https://www.meeko.fr/legals/services) du Site.
 
-**Site :** désigne le site internet d’YKA (www.lockr.ch) décrivant les Services et sur lequel le Compte est accessible.
+**Site :** désigne le site internet d’YKA (www.meeko.fr) décrivant les Services et sur lequel le Compte est accessible.
 
 **YKA :** désigne la société par actions simplifiées au capital de 10 000 euros, immatriculée au registre du Commerce et des Sociétés de Bourg en Bresse sous le numéro 798 543 104 Siège social : 445 Route Blanche, 01170 SEGNY**
 
@@ -51,7 +51,7 @@ Les documents régissant le présent Contrat sont les suivants par ordre de prio
 
 1. Les présentes
 2. La Commande
-3. Annexe 1 : Le descriptif des Services visé à l’adresse [https://www.lockr.ch/legals/services](https://www.lockr.ch/legals/services)
+3. Annexe 1 : Le descriptif des Services visé à l’adresse [https://www.meeko.fr/legals/services](https://www.meeko.fr/legals/services)
 
 En cas de contradiction entre les documents ci-dessus, les documents de rang supérieur prévaudront.
 
@@ -69,7 +69,7 @@ YKA assure la gestion et la maintenance matérielle et logicielle de la Platefor
 
 ### 6.2. Création d'un compte
 
-La création d’un Compte s’effectue à la rubrique Create an account accessible à l’adresse [https://www.lockr.ch/register](https://www.lockr.ch/register).
+La création d’un Compte s’effectue à la rubrique Create an account accessible à l’adresse [https://www.meeko.fr/register](https://www.meeko.fr/register).
 
 A cet effet, le Client est informé que des Données devront être saisies, certaines étant obligatoires d’autres facultatives.
 
@@ -100,7 +100,7 @@ Dans le cadre des présentes, le Client bénéficiera d'un accès personnel aux 
 
 Ces Identifiants sont personnels, toute utilisation de ces derniers étant faite sous l'entière responsabilité du Client.
 
-En cas de perte ou d’oubli de son mot de passe, le Client devra solliciter le changement de celui-ci à l’adresse suivante : [https://lockr.ch/password/email](https://lockr.ch/password/email) en indiquant son adresse email.
+En cas de perte ou d’oubli de son mot de passe, le Client devra solliciter le changement de celui-ci à l’adresse suivante : [https://meeko.fr/password/email](https://meeko.fr/password/email) en indiquant son adresse email.
 
 Le Client reconnaît par ailleurs qu’afin d’optimiser sa connexion aux Services, YKA ou ses sous-traitants concourant à la fourniture des Services pourront mettre en œuvre des programmes de types cookies.
 
@@ -126,7 +126,7 @@ L’accessibilité du Site et la possibilité de souscrire aux Services visent t
 
 ### 6.9. Disponibilités des présentes
 
-Les présentes conditions sont en permanence accessibles à l’adresse [https://www.lockr.ch/legals/terms](https://www.lockr.ch/legals/terms)
+Les présentes conditions sont en permanence accessibles à l’adresse [https://www.meeko.fr/legals/terms](https://www.meeko.fr/legals/terms)
 
 Leur acceptation est nécessaire aux fins de confirmer la création d’un Compte et souscrire un Service.
 
@@ -135,8 +135,6 @@ Ces dernières sont accessibles en différentes langues étant précisé que seu
 ### 6.10. Version d'essai
 
 Une version d’essai des Services peut être disponible pour la durée mentionnée sur le Site et nécessite pas l’établissement de Commande mais uniquement la création d’un Compte. Dans une telle hypothèse et de convention expresse, le Client reconnaît, compte tenu du caractère gratuit des Services dans le cadre d’une version d’essai, qu’il ne pourra en aucun cas engager la responsabilité d’YKA pour quelque raison que ce doit dans le cadre de l’utilisation des Services ou de ses conséquences.
-
-A la fin de la période d’essai, tout Fichier sera automatiquement détruit.
 
 ## 7. Gestion des commandes
 
@@ -181,7 +179,7 @@ Dans l'hypothèse où, pour quelque raison que ce soit (opposition, refus du cen
 
 #### 7.4.2 Prix et conditions de règlement
 
-Les tarifs qui s'appliquent sont ceux en vigueur à la date de la Commande par le Client. Ils sont exprimés en Francs suisses et Hors Taxes.
+Les tarifs qui s'appliquent sont ceux en vigueur à la date de la Commande par le Client. Ils sont exprimés en Euros et Hors Taxes.
 
 YKA se réserve le droit de modifier le prix des Services dont l’entrée en vigueur sera effective lors du renouvellement.
 YKA informera par courriel le Client suivant un préavis de quatre vingt dix (90) jours de ces modifications.
@@ -224,9 +222,9 @@ YKA ne saurait être tenue responsable de toute annulation ou refus d’une Comm
 
 ## 8. Precisions liées aux services
 
-Les Services sont destinés notamment à bénéficier pour le Client d’un accès à la Plateforme, d’un cryptage des Données, d’un suivi de la gestion des Fichiers par le Client et sont plus amplement décrits à la rubrique du Site [https://www.lockr.ch/legals/services](https://www.lockr.ch/legals/services).
+Les Services sont destinés notamment à bénéficier pour le Client d’un accès à la Plateforme et d’un suivi de la gestion des Fichiers et données par le Client et sont plus amplement décrits à la rubrique du Site [https://www.meeko.fr/legals/services](https://www.meeko.fr/legals/services).
 
-Le Client est seul responsable des Fichiers hébergés et diffusés par lui. YKA ne saurait en aucune manière être responsable de la légalité des contenus hébergés et diffusés par le Client.
+Le Client est seul responsable des Fichiers et données hébergés et diffusés par lui. YKA ne saurait en aucune manière être responsable de la légalité des contenus hébergés et diffusés par le Client.
 
 YKA ne saurait être tenu responsable de tout dommage, matériel ou immatériel causé aux Clients, à leurs équipements informatiques et aux données qui y sont stockées, ou de toutes conséquences directes ou indirectes pouvant en découler, notamment sur leur activité personnelle, professionnelle ou commerciale ainsi que d'un préjudice d'aucune nature (personnelle, physique, matérielle, financière ou autre) survenu à l'occasion de l’utilisation du Site.
 
@@ -242,7 +240,7 @@ Les traitements effectués ont fait l’objet d’une déclaration sous le numé
 
 Conformément à la Règlementation, tout Client peut obtenir communication et le cas échéant rectification ou suppression des informations le concernant en s’adressant à YKA:
 
-1. Par mail : [help@lockr.ch](mailto:help@lockr.ch)
+1. Par mail : [contact@meeko.fr](mailto:contact@meeko.fr)
 2. Par Courrier à l’adresse suivante : 445 route blanche, 01170 Segny, FRANCE
 
 ### 9.1. Cookies
@@ -265,8 +263,7 @@ Les cookies mis en place par YKA sont des cookies strictement limités à
 
 ### 9.2. Adresse IP
 
-Le Client reconnaît que pour les besoins d’utilisation du Service et aux fins d’assurer la traçabilité des destinataires des Fichiers téléchargés grâce aux Services, l’adresse IP des destinataires sera collectée.
-A cette fin, tout destinataire devra, préalablement à tout accès ou téléchargement, étre informé et accepter que son adresse IP soit collectée.
+Le Client reconnaît que pour les besoins d’utilisation du Service et aux fins d’assurer la traçabilité des connexions, l’adresse IP des utilisateurs sera collectée.
 
 ### 9.3. Durée de conservation des Données personnelles
 
@@ -298,10 +295,10 @@ Si YKA venait à être inquiétée de ce chef, elle en avisera le Client qui dev
 
 YKA pourra résilier le Contrat, sans avoir à verser des dommages et intérêts ou une indemnité, si une décision de justice lui fait défense d’utiliser un élément nécessaire à la réalisation de ses Services pour le compte du Client.
 
-#### 10.2. Régime applicable aux Fichiers
+#### 10.2. Régime applicable aux Fichiers et Données
 
-Le Client est et demeure propriétaire de l’ensemble des Fichiers qu’il utilise à travers les Services dans le cadre du Contrat.
-Le Client reconnait que les Fichiers sont hébergés pour une durée maximum de quinze (15) jours et sont automatiquement détruits au delà de cette période.
+Le Client est et demeure propriétaire de l’ensemble des Fichiers et Données qu’ils utilisent à travers les Services dans le cadre du Contrat.
+Le Client reconnait que les Fichiers et les Données sont hébergés pour une durée maximum de quinze (15) jours et sont automatiquement détruits au delà de cette période.
 Les présents Services ne consistent nullement en une prestation de sauvegarde.
 Le Client déclare détenir sur les Fichiers hébergés dans le cadre des Services les droits de propriété intellectuelle l'autorisant à utiliser les Services et s’engage à ne pas utiliser les Services aux fins de diffusion d’un contenu de Fichier contraire aux bonne mœurs ou à la loi et notamment tout Fichier relatif à l'apologie des crimes contre l'humanité, de l'incitation à la haine raciale, à la haine à l'égard de personnes à raison de leur sexe, de leur orientation ou identité sexuelle ou de leur handicap, ainsi que de la pornographie enfantine, de l'incitation à la violence, notamment l'incitation aux violences faites aux femmes, ainsi que des atteintes à la dignité humaine.
 A cet effet, le Client garantit YKA contre tout risque d'éviction et toute conséquence qui pourraient en découler.
@@ -329,7 +326,7 @@ Cette somme constitue l’équilibre économique recherché entre les Parties co
 
 ### 12.1. Durée et Terme
 
-Les Services sont conclus pour une durée initiale d’un (1) mois renouvelable par tacite reconduction pour la même durée. Au terme de chacune des périodes, le Client pourra choisir de ne pas renouveler les Services par une simple notification à l’adresse : [https://www.lockr.ch/account/billing](https://www.lockr.ch/account/billing) sous réserve du respect d’un préavis de cinq (5) jours calendaires avant la fin de la période visée.
+Les Services sont conclus pour une durée initiale d’un (1) mois renouvelable par tacite reconduction pour la même durée. Au terme de chacune des périodes, le Client pourra choisir de ne pas renouveler les Services par une simple notification à l’adresse : [https://www.meeko.fr/account/billing](https://www.meeko.fr/account/billing) sous réserve du respect d’un préavis de cinq (5) jours calendaires avant la fin de la période visée.
 
 ### 12.2. Résiliation pour faute
 
@@ -418,7 +415,7 @@ Les titres des articles du Contrat sont insérés dans le seul but d’en facili
 
 Le Contrat est régi par la loi française.
 
-Il est de la responsabilité du Client de s’assurer que la souscription et/ou l’utilisation des Services ne contrevient pas à la législation qui le régit ou celle des destinataires envisagés des Fichiers. 
+Il est de la responsabilité du Client de s’assurer que la souscription et/ou l’utilisation des Services ne contrevient pas à la législation qui le régit. 
 
 En aucun cas, la responsabilité d’YKA ne pourra être engagée si tel n’était pas le cas. 
 
