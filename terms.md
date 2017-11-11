@@ -69,7 +69,7 @@ YKA assure la gestion et la maintenance matérielle et logicielle de la Platefor
 
 ### 6.2. Création d'un compte
 
-La création d’un Compte s’effectue à la rubrique Create an account accessible à l’adresse [https://www.meeko.fr/register](https://www.meeko.fr/register).
+La création d’un Compte s’effectue à la rubrique Create an account accessible à l’adresse [https://meeko.pro/app/register](https://meeko.pro/app/register).
 
 A cet effet, le Client est informé que des Données devront être saisies, certaines étant obligatoires d’autres facultatives.
 
@@ -100,7 +100,7 @@ Dans le cadre des présentes, le Client bénéficiera d'un accès personnel aux 
 
 Ces Identifiants sont personnels, toute utilisation de ces derniers étant faite sous l'entière responsabilité du Client.
 
-En cas de perte ou d’oubli de son mot de passe, le Client devra solliciter le changement de celui-ci à l’adresse suivante : [https://meeko.fr/password/email](https://meeko.fr/password/email) en indiquant son adresse email.
+En cas de perte ou d’oubli de son mot de passe, le Client devra solliciter le changement de celui-ci à l’adresse suivante : [https://meeko.pro/app/password/reset](https://meeko.pro/app/password/reset) en indiquant son adresse email.
 
 Le Client reconnaît par ailleurs qu’afin d’optimiser sa connexion aux Services, YKA ou ses sous-traitants concourant à la fourniture des Services pourront mettre en œuvre des programmes de types cookies.
 
@@ -240,7 +240,7 @@ Les traitements effectués ont fait l’objet d’une déclaration sous le numé
 
 Conformément à la Règlementation, tout Client peut obtenir communication et le cas échéant rectification ou suppression des informations le concernant en s’adressant à YKA:
 
-1. Par mail : [contact@meeko.fr](mailto:contact@meeko.fr)
+1. Par mail : [contact@meeko.pro](mailto:contact@meeko.pro)
 2. Par Courrier à l’adresse suivante : 445 route blanche, 01170 Segny, FRANCE
 
 ### 9.1. Cookies
@@ -298,7 +298,7 @@ YKA pourra résilier le Contrat, sans avoir à verser des dommages et intérêts
 #### 10.2. Régime applicable aux Fichiers et Données
 
 Le Client est et demeure propriétaire de l’ensemble des Fichiers et Données qu’ils utilisent à travers les Services dans le cadre du Contrat.
-Le Client reconnait que les Fichiers et les Données sont hébergés pour une durée maximum de quinze (15) jours et sont automatiquement détruits au delà de cette période.
+Le Client reconnait que les Fichiers et les Données sont hébergés sur la durée du contrat et sont automatiquement détruits au delà de cette période.
 Les présents Services ne consistent nullement en une prestation de sauvegarde.
 Le Client déclare détenir sur les Fichiers hébergés dans le cadre des Services les droits de propriété intellectuelle l'autorisant à utiliser les Services et s’engage à ne pas utiliser les Services aux fins de diffusion d’un contenu de Fichier contraire aux bonne mœurs ou à la loi et notamment tout Fichier relatif à l'apologie des crimes contre l'humanité, de l'incitation à la haine raciale, à la haine à l'égard de personnes à raison de leur sexe, de leur orientation ou identité sexuelle ou de leur handicap, ainsi que de la pornographie enfantine, de l'incitation à la violence, notamment l'incitation aux violences faites aux femmes, ainsi que des atteintes à la dignité humaine.
 A cet effet, le Client garantit YKA contre tout risque d'éviction et toute conséquence qui pourraient en découler.
