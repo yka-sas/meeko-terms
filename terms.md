@@ -265,7 +265,7 @@ Pour toute autre restitution sollicitée, YKA adressera une Proposition commerci
 
 ## 13. Divers
 
-### 13.1 Confidentialité
+### 13.1 Confidentialité
 
 Sont considérés comme confidentiels les renseignements ou documents échangés entre les Parties, en ce compris tout élément communiqué par leurs sous-traitants ou porté à leur connaissance lors de l’exécution de leurs prestations, les données stockées sur la Plateforme sans préjudice de traitements statistiques anonyme prévus dans les conditions générales d’utilisation,  les travaux effectués pendant la durée du Contrat, l’Application et sa documentation, les études, les secrets de savoir-faire, les données de production et informations quels que soient leurs supports et les résultats issus des traitements, les politiques de personnel, ainsi que le présent Contrat et les documents y afférents.
 Cette obligation de confidentialité, valable pour toute la durée du Contrat, court également pendant une période de trois (3) ans à compter de la fin du Contrat.
@@ -283,7 +283,7 @@ L’obligation de confidentialité ne s’applique pas :
 •	aux informations qui étaient déjà connues de la Partie bénéficiaire avant leur communication, à charge pour elle d’en fournir toute justification.
 •	au droit pour YKA de mentionner, dans le cadre de références commerciales, le nom du Client tant que ce dernier est Client, et son logo/et ou sa marque sous réserve que ne figure pas le détail des Services réalisés.  
 
-### 13.2 Non sollicitation de personnel
+### 13.2 Non sollicitation de personnel
 
 Chacune des Parties est consciente des investissements effectués pour former ses collaborateurs, YKA rappelant à cet effet que la stabilité de ses équipes est le gage d’une continuité de ses Services. En conséquence, chacune des Parties  s'interdit de prendre à son service (démarcher, recruter, faire travailler), directement ou indirectement par l'intermédiaire d'une société mère, d'une société filiale ou d'une société dans laquelle il détient une participation, le personnel de l’autre Partie. Le Client s’interdira également de solliciter dans les mêmes conditions, les consultants indépendants d’YKA impliqués directement ou indirectement dans la réalisation des Services.
 Cette interdiction prend fin un (1) an après la fin du Contrat. En cas de contravention au présent article, la Partie contrevenante paiera, à titre d'indemnité forfaitaire, une somme égale aux douze derniers mois d'appointements bruts de la personne concernée.
@@ -341,9 +341,9 @@ Toutes difficultés relatives à l'application ou à l'interprétation du Contra
 
 
 
-#ANNEXE 2 - ANNEXE LIEE AUX MODALITES DE SOUS-TRAITANCE DE DONNEES A CARACTERE PERSONNEL
+# ANNEXE 2 - ANNEXE LIEE AUX MODALITES DE SOUS-TRAITANCE DE DONNEES A CARACTERE PERSONNEL
 
-##ENTRE LES SOUSSIGNES
+## ENTRE LES SOUSSIGNES
 
 Le Client ayant souscrit des conditions d’utilisation en mode SAAS de l’application MEEKO,
 Ci-après désignée « le Responsable de traitement ou le Client»,
