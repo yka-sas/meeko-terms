@@ -65,7 +65,7 @@ Une fois la confirmation de l’inscription effectuée, les Services sont conclu
 
 S’agissant de toute souscription  initiale de douze (12) mois, cette dernière est reconductible tacitement par période de douze (12) mois à compter de la date anniversaire de la durée initiale, sauf dénonciation par courrier recommandé avec accusé de réception par l’une des Parties moyennant le respect d’un préavis minimum de trois (3) mois avant l’échéance de la période initiale ou renouvelée.
 
-S’agissant de toute souscription  initiale de un (1) mois, cette dernière est reconductible tacitement par période de un (1) mois à compter de la date anniversaire de la durée initiale, sauf dénonciation sur la page de gestion de l'abonnement directement accésible depuis le compte personnel ou par courrier recommandé avec accusé de réception par l’une des Parties moyennant le respect d’un préavis minimum de 10 jours avant l’échéance de la période initiale ou renouvelée.
+S’agissant de toute souscription  initiale de un (1) mois, cette dernière est reconductible tacitement par période de un (1) mois à compter de la date anniversaire de la durée initiale, sauf dénonciation sur la page de gestion de l'abonnement directement accesible depuis le compte personnel ou par courrier recommandé avec accusé de réception par l’une des Parties moyennant le respect d’un préavis minimum de 10 jours avant l’échéance de la période initiale ou renouvelée.
 
 Ces notifications seront adressées, s’agissant d’YKA, à son siège et s’agissant du Client, à l’adresse renseignée lors de l’inscription par ce dernier. 
 
@@ -201,7 +201,7 @@ Pour une bonne exécution du Contrat, le Client s'oblige à :
 
 ### 10.1	 Prix
 
-La facturation des Services liées à l’Application s’effectue terme à échoir par carte bancaire sur la page de gestion de l'abonnement accésible sur le Compte client.
+La facturation des Services liées à l’Application s’effectue terme à échoir par carte bancaire sur la page de gestion de l'abonnement accesible sur le Compte client.
 
 ### 10.2 Factures en ligne
 
