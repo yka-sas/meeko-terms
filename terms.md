@@ -400,7 +400,7 @@ Pour l’exécution de la présente, le Responsable de traitement met à la disp
 Les présentes sont applicables aussi longtemps que le Contrat est en vigueur. 
 
 
-### ARTICLE 4  - OBLIGATIONS DU SOUS-TRAITANT VIS-A-VIS DU RESPONSABLE DE TRAITEMENT 
+### ARTICLE 4  - OBLIGATIONS DU SOUS-TRAITANT VIS-A-VIS DU RESPONSABLE DE TRAITEMENT 
 
 
 Le Sous-traitant s'engage à traiter les Données uniquement pour les finalités qui font l’objet de la sous-traitance tel que défini à l’article 2 des présentes.
@@ -421,14 +421,14 @@ o	la mise en œuvre d’une procédure visant à tester, à analyser et à éval
 
 Si le Sous-traitant a été autorisé à recruter un autre sous-traitant pour mener des activités de traitement spécifiques pour le compte du Responsable du traitement, les mêmes obligations en matière de protection de Données que celles fixées ci-dessus sont imposées à cet autre sous-traitant par contrat, en particulier pour ce qui est de présenter des garanties suffisantes quant à la mise en œuvre de mesures techniques et organisationnelles appropriées de manière à ce que le traitement réponde aux exigences de la réglementation. 
 
-### ARTICLE 5  - REGISTRE DES TRAITEMENTS
+### ARTICLE 5  - REGISTRE DES TRAITEMENTS
 
 Le Sous-traitant déclare tenir par écrit un registre de toutes les catégories d’activités de traitement effectuées pour le compte du Responsable de traitement comprenant notamment: 
 •	le nom et les coordonnées du Responsable de traitement pour le compte duquel il agit, des éventuels sous-traitants et, le cas échéant, du délégué à la protection des données ; 
 •	les catégories de traitements effectués pour le compte du Responsable du traitement ; 
 •	tout autre élément nécessaire appropriée au regard des traitements conformément aux dispositions de l’article 30 du Règlement. 
 
-### ARTICLE 6  - MESURE DE SECURITE LIEES AUX DONNEES
+### ARTICLE 6  - MESURE DE SECURITE LIEES AUX DONNEES
 
 Le Sous-traitant s’engage à mettre en œuvre les mesures de sécurité suivantes :
 - Protection de la communication par la mise en place de certificat SSL pour le chiffrement.
