@@ -8,7 +8,7 @@
 
 ## Hébergement
 
-1. **Société :** [Heroku](https://www.heroku.com/)
+1. **Société :** [SalesForce (Heroku)](https://www.heroku.com/)
 2. **Adresse électronique :** [pr@heroku.com](mailto:pr@heroku.com)
 
 ## Données à caractère personnel
