@@ -1,4 +1,4 @@
-# CONDITIONS D’UTLISATION DE LA SOLUTION SAAS MEEKO
+# Conditions d'utilisation de la solution SAAS meeko
 
 ## 1. Préambule
 
