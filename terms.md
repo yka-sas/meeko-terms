@@ -5,7 +5,7 @@
 **Il est préalablement rappelé que :**
 
 YKA a développé une application en mode SAAS relative à la gestion de crèche dénommée MEEKO.
-À cet effet, l’application développée par vos soins comprend différentes fonctionnalités telle que plus amplement décrites à l’adresse https://www.meeko.pro
+À cet effet, l’application développée par nos soins comprend différentes fonctionnalités telle que plus amplement décrites à l’adresse https://www.meeko.pro
 
 Le Client s’est déclaré intéressé pour bénéficier des fonctionnalités de l’Application MEEKO
 
