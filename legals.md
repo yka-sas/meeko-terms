@@ -19,7 +19,7 @@ Les présents traitements de données à caractère personnel ont fait l’objet
 
 Conformément à la loi du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, tout Client peut obtenir communication et le cas échéant rectification ou suppression des informations le concernant en s’adressant à [YKA](http://www.yka.ch) :
 
-1. **Par mail :** [support@meeko.fr](mailto:support@meeko.fr)
+1. **Par mail :** [contact@meeko.pro](mailto:contact@meeko.pro)
 2. **Par Courrier à l’adresse suivante :** 445 route blanche, 01170 Segny, FRANCE
 
 ### Propriété intellectuelle
