@@ -8,8 +8,8 @@
 
 ## Hébergement
 
-1. **Société :** [SalesForce (Heroku)](https://www.heroku.com/)
-2. **Adresse électronique :** [pr@heroku.com](mailto:pr@heroku.com)
+1. **Société :** [Vultr](https://www.vultr.com/locations/)
+2. **Adresse électronique :** [Contact](https://www.vultr.com/contact/)
 
 ## Données à caractère personnel
 
