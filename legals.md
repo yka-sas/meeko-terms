@@ -4,12 +4,12 @@
 
 1. **Directeur de la publication :** Monsieur Pierre MAKHLOUF
 2. **Numéro de TVA intracommunautaire :** FR51798543104
-3. **Numéro de téléphone :** +33 45 041 42 43
+3. **Numéro de téléphone :** +33 4 50 41 42 43
 
 ## Hébergement
 
-1. **Société :** [Vultr](https://www.vultr.com/locations/)
-2. **Adresse électronique :** [Contact](https://www.vultr.com/contact/)
+1. **Société :** [Amazon Web Services, Inc.](https://aws.amazon.com/fr/)
+2. **Adresse électronique :** [Contact](https://aws.amazon.com/fr/contact-us/)
 
 ## Données à caractère personnel
 
