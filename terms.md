@@ -1,4 +1,4 @@
-# Conditions d'utilisation de la solution SAAS meeko
+# Conditions d'utilisation de la solution SaaS meeko
 
 ## 1. Préambule
 
@@ -309,7 +309,7 @@ Si une ou plusieurs stipulations du Contrat sont tenues pour non valides ou déc
 
 Sauf stipulation contraire expresse visée aux présentes, les Parties déclarent qu’elles acceptent de procéder à l’échange des informations nécessaires à l’exécution des Services qui font l’objet du Contrat par échanges et/ou courriers électroniques aux adresses préalablement renseignées lors de la conclusion du Contrat de même que feront foi entre elles, tout élément tels que notamment logs ou connexions intervenus dans le cadre de l’utilisation des Services et renoncent en conséquence à toute confirmation par écrit.
 
-### 13.8	 VERSION DES CONDITIONS CONTRACTUELLES APPLICABLES 
+### 13.8	 Version des conditions contractuelles applicables 
 
 Le Contrat applicable au Client est celui accessible en permanence à la rubrique du Site : « Conditions contractuelles d’utilisation ». Dans l’hypothèse où de nouvelles conditions contractuelles interviendraient où évolueraient, les nouvelles conditions contractuelles, également accessibles en permanence, seront préalablement portées à la connaissance du Client suivant un préavis de quatre-vingt dix (90) jours et indiquant leur date d’entrée en vigueur. 
 Sauf  dénonciation des Services pendant la période de préavis, les nouvelles conditions contractuelles seront réputées acceptées par le Client et s’appliqueront dès leur date d’entrée en vigueur initialement indiquée.
@@ -341,9 +341,9 @@ Toutes difficultés relatives à l'application ou à l'interprétation du Contra
 
 
 
-# ANNEXE 2 - ANNEXE LIEE AUX MODALITES DE SOUS-TRAITANCE DE DONNEES A CARACTERE PERSONNEL
+# Annexe 2 - Annexe liée aux modalités de sous-traitance de données à caractère personnel
 
-## ENTRE LES SOUSSIGNES
+## Entre les soussignés
 
 Le Client ayant souscrit des conditions d’utilisation en mode SAAS de l’application MEEKO,
 Ci-après désignée « le Responsable de traitement ou le Client»,
@@ -361,7 +361,7 @@ D'autre part,
 Ci-après désignées ensemble les « Parties » et individuellement « Partie ».
 
 
-### ARTICLE 1 - OBJET
+### Article 1 - Objet
 
 La présente annexe a pour objet de définir les conditions dans lesquelles le Sous-traitant s’engage à effectuer pour le compte du Responsable de traitement les opérations de traitement de données à caractère personnel (ci-après les « Données ») dans le cadre de l’exécution de ses Services au titre du Contrat et ce conformément :
 •	à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés à la loi 78-17, ci-après désignée « la loi 78-17 » ; 
@@ -369,7 +369,7 @@ La présente annexe a pour objet de définir les conditions dans lesquelles le S
 
 Il est expressément convenu entre les Parties que les stipulations relevant des règles imposées par le Règlement, intégrées au sein des articles 4 à 6, devront être appliquées et mises en œuvre au plus tard pour le 25 mai 2018, toute obligation imposée par la loi n° 78-17 demeurant applicable dans l’intervalle.
 
-### ARTICLE 2 - DESCRIPTION DU TRAITEMENT FAISANT L’OBJET DE LA SOUS-TRAITANCE
+### Article 2 - Description du traitement faisant l'objet de la sous-traitance
 
 Le Responsable de Traitement s’engage à :
 •	fournir au Sous-traitant les Données visées ci-après ; 
@@ -395,13 +395,12 @@ Pour l’exécution de la présente, le Responsable de traitement met à la disp
 - Relevés journaliers (repas, changes, siestes, activités, photos, santé, pointage).
 - Fichiers et Documents.
 
-### ARTICLE 3 - DUREE
+### Article 3 - Durée
 
 Les présentes sont applicables aussi longtemps que le Contrat est en vigueur. 
 
 
-### ARTICLE 4  - OBLIGATIONS DU SOUS-TRAITANT VIS-A-VIS DU RESPONSABLE DE TRAITEMENT 
-
+### Article 4  - Obligations du sous-traitant vis-à-vis du responsable de traitement
 
 Le Sous-traitant s'engage à traiter les Données uniquement pour les finalités qui font l’objet de la sous-traitance tel que défini à l’article 2 des présentes.
 
@@ -421,18 +420,18 @@ o	la mise en œuvre d’une procédure visant à tester, à analyser et à éval
 
 Si le Sous-traitant a été autorisé à recruter un autre sous-traitant pour mener des activités de traitement spécifiques pour le compte du Responsable du traitement, les mêmes obligations en matière de protection de Données que celles fixées ci-dessus sont imposées à cet autre sous-traitant par contrat, en particulier pour ce qui est de présenter des garanties suffisantes quant à la mise en œuvre de mesures techniques et organisationnelles appropriées de manière à ce que le traitement réponde aux exigences de la réglementation. 
 
-### ARTICLE 5  - REGISTRE DES TRAITEMENTS
+### Article 5  - Registre des traitements
 
 Le Sous-traitant déclare tenir par écrit un registre de toutes les catégories d’activités de traitement effectuées pour le compte du Responsable de traitement comprenant notamment: 
 •	le nom et les coordonnées du Responsable de traitement pour le compte duquel il agit, des éventuels sous-traitants et, le cas échéant, du délégué à la protection des données ; 
 •	les catégories de traitements effectués pour le compte du Responsable du traitement ; 
 •	tout autre élément nécessaire appropriée au regard des traitements conformément aux dispositions de l’article 30 du Règlement. 
 
-### ARTICLE 6  - MESURE DE SECURITE LIEES AUX DONNEES
+### Article 6  - Mesure de sécurité liées aux données
 
 Le Sous-traitant s’engage à mettre en œuvre les mesures de sécurité suivantes :
 - Protection de la communication par la mise en place de certificat SSL pour le chiffrement.
 - Blocage de la connexion en cas d'attaque brute-force sur le Compte client.
-- Mise en place d'un Pare-feu applicatif Web (WAF) et d'une protection contre les attaques DDoD.
+- Mise en place d'un Pare-feu applicatif Web (WAF) et d'une protection contre les attaques DDoS.
  
  
