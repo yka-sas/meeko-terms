@@ -114,7 +114,7 @@ Il est rappelé que les différences de capacité des différents réseaux et de
 
 ### 7.2 	Hébergement des données
 
-Les données objets des Services sont hébergées auprès de l’hébergeur Salesforce (Heroku), dont les coordonnées sont Rte de la Longeraie 9, 1110 Morges, Suisse. 
+Les données objets des Services sont hébergées auprès de l’hébergeur Amazon (Amazon Web Services, Inc). 
 YKA demeure libre de confier l’hébergement de la Plateforme à tout autre hébergeur, sans avoir à obtenir l’accord préalable du Client sous réserve que l’hébergement soit dans un Etat de l’Union européenne,
 Les présents Services ne consistent nullement en une prestation de sauvegarde des Données.
 
